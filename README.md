@@ -75,6 +75,7 @@ The model considers the following features:
 
 Users can interactively enter values into the web app to get real-time predictions.
 (https://house-price-predictor-rucszqk499dmsxzyykk4bk.streamlit.app/)
+
 ---
 
 ## 🖥️ How to Run the App
