@@ -116,7 +116,7 @@ This project showcases my ability to take a problem from data collection to depl
 
 - <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d41e481f-a8bd-4fd5-888f-9b4b1b519eae" />[LinkedIn] (www.linkedin.com/in/obed-adonle-a72298376)
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a0c4a449-fb3c-4657-a6d5-7e0559dbe801" />[Portfolio & Dashboards(https://public.tableau.com/app/profile/obed.adonle/vizzes)
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/49761877-99f2-423c-9e22-7ded6b648ccd" />[Mail Me @] (kwameasomu2032@gmail.com)
+- <img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/49761877-99f2-423c-9e22-7ded6b648ccd" />[Mail Me @] (kwameasomu2032@gmail.com)
 - <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/787a3e42-6599-48db-9728-49184585d89f" />[WhatsApp] (+91 8891206376)
 
 
