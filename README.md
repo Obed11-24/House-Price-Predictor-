@@ -131,25 +131,6 @@ This project showcases my ability to take a problem from data collection to depl
 This project is open-source and available under the MIT License.
 
 
----
 
-### ✅ What to Do Next:
-
-1. **Replace** placeholders like:
-   - `YourUsername`
-   - Your Streamlit app link
-   - LinkedIn and Portfolio URLs
-
-2. **Add an image** (optional):
-   - Take a screenshot of your app
-   - Save it as `house-price-app-screenshot.png` in an `images/` folder.
-
-3. **Save this as** `README.md` in your project root.
-
-4. Then run:
-   ```bash
-   git add README.md
-   git commit -m "Add detailed project README"
-   git push
 
 
