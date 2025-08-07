@@ -127,7 +127,7 @@ This project showcases my ability to take a problem from data collection to depl
 
 
 
-📄 License
+#### 📄 License
 This project is open-source and available under the MIT License.
 
 
