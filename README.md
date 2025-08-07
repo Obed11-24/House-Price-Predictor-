@@ -99,8 +99,8 @@ The app will open in your browser automatically.
 - The app is deployed and accessible here:
 - 🔗 [Live Streamlit App] (https://house-price-predictor-rucszqk499dmsxzyykk4bk.streamlit.app/)
 
---
-### Demo image 
+---
+### 📸 Demo Screenshot
 ![Screenshot_7-8-2025_94238_house-price-predictor-rucszqk499dmsxzyykk4bk streamlit app_edited](https://github.com/user-attachments/assets/1c3995bb-afc2-4d5e-8682-8d7b2e3cb1a4)
 
 
