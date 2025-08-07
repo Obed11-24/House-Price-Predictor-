@@ -67,11 +67,10 @@ Validation: **Walk-forward cross-validation**
 
 The model considers the following features:
 
-- Area (sq ft)
-- Number of bedrooms and bathrooms
-- Year built
-- Zip code / location
-- Garage or not
+- Assessed Value
+- Residential Type
+- Town
+- Location (longitude & latitude)
 - ... and more depending on the dataset
 
 Users can interactively enter values into the web app to get real-time predictions.
